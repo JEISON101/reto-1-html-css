@@ -6,10 +6,19 @@ body {
     justify-content: center;
     align-items: center;
     padding: 30px;
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
 }
 
 p, ul, ol, table {
     color: hsl(30, 10%, 34%);
+}
+
+h1, h2{
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-style: normal;
 }
 
 h2 {
@@ -35,7 +44,10 @@ h2 {
 }
 
 .preparacion h2 {
-    color: hsl(332, 51%, 32%);
+    color: hsl(332, 51%, 32%);    
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
 }
 
 .ingredientes {
